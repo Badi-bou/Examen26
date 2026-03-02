@@ -9,13 +9,15 @@ Ce projet peut être exécuté via une image Docker déjà construite et disponi
 
 ```bash
 docker --version
+```
 
-##Télécharger l’image Docker
+## Télécharger l’image Docker
 
 ```bash
 docker pull meidilprog/tpamine:v0
-
+```
 ## Lancer le conteneur
 
 ```bash
 docker run --rm meidilprog/tpamine:v0
+```
