@@ -14,10 +14,10 @@ docker --version
 ## Télécharger l’image Docker
 
 ```bash
-docker pull meidilprog/tpamine:v1
+docker pull meidilprog/tpamine:v3
 ```
 ## Lancer le conteneur
 
 ```bash
-docker run --rm meidilprog/tpamine:v1
+docker run --rm meidilprog/tpamine:v3
 ```
